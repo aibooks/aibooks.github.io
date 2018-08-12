@@ -1,5 +1,7 @@
 AI Books
 
+> AI Books to help people learn and build Awesome AI
+
 1. [AI Books](#ai-books)
 
 
