@@ -3,9 +3,11 @@ AI Books
 > AI Books to help people learn and build Awesome AI
 
 1. [AI Books](#ai-books)
+1. [Reinforcement Learning](#reinforcement-learning)
 1. [Machine Learning](#machine-learning)
 1. [Deep Learning](#deep-learning)
 1. [Neural Network](#neural-network)
+
 
 **AI Books**
 ---
@@ -15,6 +17,16 @@ AI Books
 <img src="https://www.packtpub.com/sites/default/files/B09513.png" width="120px"/>
 
 Many real-world problems can be broken down into tasks that require a series of decisions to be made or actions to be taken. The ability to solve such tasks without a machine being programmed requires a machine to be artificially intelligent and capable of learning to adapt. This book is an easy-to-follow guide to implementing learning algorithms for machine software agents in order to solve discrete or continuous sequential decision making and control tasks.
+
+
+**Reinforcement Learning**
+---
+
+### [Hands-On Reinforcement Learning with Python (2018)](https://drive.google.com/file/d/1wRQJO2rOSiquQQQeQTrsA6sW6Briy46F/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B09792_Newcover.png" width="120px"/>
+
+Reinforcement Learning (RL) is the trending and most promising branch of artificial intelligence. Hands-On Reinforcement learning with Python will help you master not only the basic reinforcement learning algorithms but also the advanced deep reinforcement learning algorithms.
 
 
 **Machine Learning**
