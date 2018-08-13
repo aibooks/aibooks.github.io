@@ -7,6 +7,7 @@ AI Books
 1. [Machine Learning](#machine-learning)
 1. [Deep Learning](#deep-learning)
 1. [Neural Network](#neural-network)
+1. [Natural Language Processing](#natural-language-processing)
 1. [Robotics](#robotics)
 
 
@@ -58,6 +59,16 @@ Hands-On Deep Learning for Images with TensorFlow shows you the practical implem
 <img src="https://www.packtpub.com/sites/default/files/B08018_cover.jpg" width="120px"/>
 
 If you're aware of the buzz surrounding the terms such as "machine learning," "artificial intelligence," or "deep learning," you might know what neural networks are. Ever wondered how they help in solving complex computational problem efficiently, or how to train efficient neural networks? This book will teach you just that.
+
+
+**Natural Language Processing**
+---
+
+### [Hands-On Natural Language Processing with Python (2018)](https://drive.google.com/file/d/1OnS13g5g29v56g0YrmlUX1gzr_W1y1cP/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/9781789139495%20-%20Copy.png" width="120px"/>
+
+Natural language processing (NLP) has found its application in various domains, such as web search, advertisements, and customer services, and with the help of deep learning, we can enhance its performances in these areas. Hands-On Natural Language Processing with Python teaches you how to leverage deep learning models for performing various NLP tasks, along with best practices in dealing with today’s NLP challenges.
 
 
 **Robotics**
