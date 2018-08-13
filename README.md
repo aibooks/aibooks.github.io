@@ -8,6 +8,7 @@ AI Books
 1. [Deep Learning](#deep-learning)
 1. [Neural Network](#neural-network)
 1. [Natural Language Processing](#natural-language-processing)
+1. [Computer Vision](#computer-vision)
 1. [Robotics](#robotics)
 
 
@@ -69,6 +70,16 @@ If you're aware of the buzz surrounding the terms such as "machine learning," "a
 <img src="https://www.packtpub.com/sites/default/files/9781789139495%20-%20Copy.png" width="120px"/>
 
 Natural language processing (NLP) has found its application in various domains, such as web search, advertisements, and customer services, and with the help of deep learning, we can enhance its performances in these areas. Hands-On Natural Language Processing with Python teaches you how to leverage deep learning models for performing various NLP tasks, along with best practices in dealing with today’s NLP challenges.
+
+
+**Computer Vision**
+---
+
+### [Hands-On Algorithms for Computer Vision (2018)](https://drive.google.com/file/d/1AowgNbSxGB9YdlhO0o2CzyndlVnDEdS_/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B10760.png" width="120px"/>
+
+An arena that has been positively impacted by the advancements in processing power and performance is the field of Computer Vision. It's only natural that over time, more and more algorithms are introduced to perform Computer Vision tasks more efficiently. Hands-On Algorithms for Computer Vision is a starting point for anyone who is interested in the field of Computer Vision and wants to explore the most practical algorithms used by professional Computer Vision developers. The book starts with the basics and builds up over the course of the chapters with hands-on examples for each algorithm.
 
 
 **Robotics**
