@@ -5,6 +5,7 @@ AI Books
 1. [AI Books](#ai-books)
 1. [Machine Learning](#machine-learning)
 1. [Deep Learning](#deep-learning)
+1. [Neural Network](#neural-network)
 
 **AI Books**
 ---
@@ -34,3 +35,13 @@ Machine learning has had a huge impact on academia and industry by turning data 
 <img src="https://www.packtpub.com/sites/default/files/B11519.png" width="120px"/>
 
 Hands-On Deep Learning for Images with TensorFlow shows you the practical implementations of real-world projects, teaching you how to leverage TensorFlow’s capabilities to perform efficient image processing using the power of deep learning. With the help of this book, you will get to grips with the different paradigms of performing deep learning such as deep neural nets and convolutional neural networks, followed by understanding how they can be implemented using TensorFlow.
+
+
+**Neural Network**
+---
+
+### [Neural Network Programming with Tensorflow (2017)](https://drive.google.com/file/d/1szm7iegfZqnHG8stWvWYKZUufohegVSr/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B08018_cover.jpg" width="120px"/>
+
+If you're aware of the buzz surrounding the terms such as "machine learning," "artificial intelligence," or "deep learning," you might know what neural networks are. Ever wondered how they help in solving complex computational problem efficiently, or how to train efficient neural networks? This book will teach you just that.
