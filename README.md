@@ -15,6 +15,12 @@ AI Books
 **AI Books**
 ---
 
+### [Python Artificial Intelligence Projects for Beginners (2018)](https://drive.google.com/file/d/1t_64_H_ll9qwoZfSimw3Iyagnmnhsu19/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B11518.png" width="120px"/>
+
+Artificial Intelligence (AI) is the newest technology that’s being employed among varied businesses, industries, and sectors. Python Artificial Intelligence Projects for Beginners demonstrates AI projects in Python, covering modern techniques that make up the world of Artificial Intelligence.
+
 ### [Hands-On Intelligent Agents with OpenAI Gym (2018)](https://drive.google.com/file/d/1s9dJjnKuZJGdJ2svLT5xUDGqFHYp7-Jl/view) *Download*
 
 <img src="https://www.packtpub.com/sites/default/files/B09513.png" width="120px"/>
