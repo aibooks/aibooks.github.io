@@ -7,6 +7,7 @@ AI Books
 1. [Machine Learning](#machine-learning)
 1. [Deep Learning](#deep-learning)
 1. [Neural Network](#neural-network)
+1. [Robotics](#robotics)
 
 
 **AI Books**
@@ -57,3 +58,13 @@ Hands-On Deep Learning for Images with TensorFlow shows you the practical implem
 <img src="https://www.packtpub.com/sites/default/files/B08018_cover.jpg" width="120px"/>
 
 If you're aware of the buzz surrounding the terms such as "machine learning," "artificial intelligence," or "deep learning," you might know what neural networks are. Ever wondered how they help in solving complex computational problem efficiently, or how to train efficient neural networks? This book will teach you just that.
+
+
+**Robotics**
+---
+
+### [Learning Robotics using Python, 2nd Edition (2018)](https://drive.google.com/file/d/1CcGQClrXd_5KpUyvpP7gsC4Mt-pmk76e/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B09357.png" width="120px"/>
+
+Robot Operating System (ROS) is one of the most popular robotics software frameworks in research and industry. It has various features for implementing different capabilities in a robot without implementing them from scratch.
