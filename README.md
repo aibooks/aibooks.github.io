@@ -8,6 +8,7 @@
 1. [Deep Learning](#deep-learning)
 1. [Neural Network](#neural-network)
 1. [Natural Language Processing](#natural-language-processing)
+1. [Data Science](#data-science)
 1. [Computer Vision](#computer-vision)
 1. [Robotics](#robotics)
 
@@ -76,6 +77,16 @@ If you're aware of the buzz surrounding the terms such as "machine learning," "a
 <img src="https://www.packtpub.com/sites/default/files/9781789139495%20-%20Copy.png" width="120px"/>
 
 Natural language processing (NLP) has found its application in various domains, such as web search, advertisements, and customer services, and with the help of deep learning, we can enhance its performances in these areas. Hands-On Natural Language Processing with Python teaches you how to leverage deep learning models for performing various NLP tasks, along with best practices in dealing with today’s NLP challenges.
+
+
+**Data Science**
+---
+
+### [Thoughtful Data Science (2018)](https://drive.google.com/file/d/14rQ-b7_xUWKAxSixQIKFt0HtpBBZwRm8/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B09699.png" width="120px"/>
+
+Thoughtful Data Science brings new strategies and a carefully crafted programmer's toolset to work with modern, cutting-edge data analysis. This new approach is designed specifically to give developers more efficiency and power to create cutting-edge data analysis and artificial intelligence insights.
 
 
 **Computer Vision**
