@@ -86,6 +86,12 @@ With deep learning gaining rapid mainstream adoption in modern-day industries, o
 
 If you're aware of the buzz surrounding the terms such as "machine learning," "artificial intelligence," or "deep learning," you might know what neural networks are. Ever wondered how they help in solving complex computational problem efficiently, or how to train efficient neural networks? This book will teach you just that.
 
+### [Practical Convolutional Neural Networks (2018)](https://drive.google.com/file/d/1qYk1eG5DP_bqmvhJF2_T9qOjSEE7YQL_/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B08267_0.png" width="120px"/>
+
+Convolutional Neural Network (CNN) is revolutionizing several application domains such as visual recognition systems, self-driving cars, medical discoveries, innovative eCommerce and more.You will learn to create innovative solutions around image and video analytics to solve complex machine learning and computer vision related problems and implement real-life CNN models.
+
 
 **Natural Language Processing**
 ---
