@@ -54,6 +54,12 @@ Recent developments in reinforcement learning (RL), combined with deep learning 
 
 Machine learning has had a huge impact on academia and industry by turning data into actionable information. Scala has seen a steady rise in adoption over the past few years, especially in the fields of data science and analytics. This book is for data scientists, data engineers, and deep learning enthusiasts who have a background in complex numerical computing and want to know more hands-on machine learning application development.
 
+### [Machine Learning with Swift (2018)](https://drive.google.com/file/d/1KQNuI63i1EyXzHopVCstGR24xf5EOeST/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B06193.png" width="120px"/>
+
+Machine learning as a field promises to bring increased intelligence to the software by helping us learn and analyse information efficiently and discover certain patterns that humans cannot. This book will be your guide as you embark on an exciting journey in machine learning using the popular Swift language.
+
 
 **Deep Learning**
 ---
