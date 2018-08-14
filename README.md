@@ -38,6 +38,12 @@ Many real-world problems can be broken down into tasks that require a series of 
 
 Reinforcement Learning (RL) is the trending and most promising branch of artificial intelligence. Hands-On Reinforcement learning with Python will help you master not only the basic reinforcement learning algorithms but also the advanced deep reinforcement learning algorithms.
 
+### [Deep Reinforcement Learning Hands-On (2018)](https://drive.google.com/file/d/1MNS4bmF58MlDlGOxCpS7-IfAFE-hJt2B/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B09471.png" width="120px"/>
+
+Recent developments in reinforcement learning (RL), combined with deep learning (DL), have seen unprecedented progress made towards training agents to solve complex problems in a human-like way. Google’s use of algorithms to play and defeat the well-known Atari arcade games has propelled the field to prominence, and researchers are generating new ideas at a rapid pace.
+
 
 **Machine Learning**
 ---
