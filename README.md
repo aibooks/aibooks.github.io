@@ -70,6 +70,12 @@ Machine learning as a field promises to bring increased intelligence to the soft
 
 Hands-On Deep Learning for Images with TensorFlow shows you the practical implementations of real-world projects, teaching you how to leverage TensorFlow’s capabilities to perform efficient image processing using the power of deep learning. With the help of this book, you will get to grips with the different paradigms of performing deep learning such as deep neural nets and convolutional neural networks, followed by understanding how they can be implemented using TensorFlow.
 
+### [Apache Spark Deep Learning Cookbook (2018)](https://drive.google.com/file/d/1K6vvwvHKFbVmTUFIvbehPMoM_Z3DuAt3/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/9781788474221-%20Copy.png" width="120px"/>
+
+With deep learning gaining rapid mainstream adoption in modern-day industries, organizations are looking for ways to unite popular big data tools with highly efficient deep learning libraries. As a result, this will help deep learning models train with higher efficiency and speed.
+
 
 **Neural Network**
 ---
