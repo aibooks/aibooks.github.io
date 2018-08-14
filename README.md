@@ -102,6 +102,12 @@ Convolutional Neural Network (CNN) is revolutionizing several application domain
 
 Natural language processing (NLP) has found its application in various domains, such as web search, advertisements, and customer services, and with the help of deep learning, we can enhance its performances in these areas. Hands-On Natural Language Processing with Python teaches you how to leverage deep learning models for performing various NLP tasks, along with best practices in dealing with today’s NLP challenges.
 
+### [Natural Language Processing with TensorFlow (2018)](https://drive.google.com/file/d/1MIfEvdB20cHyBfA9cLAUJOIo_leqEstX/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B08681.png" width="120px"/>
+
+Natural language processing (NLP) supplies the majority of data available to deep learning applications, while TensorFlow is the most important deep learning framework currently available. Natural Language Processing with TensorFlow brings TensorFlow and NLP together to give you invaluable tools to work with the immense volume of unstructured data in today’s data streams, and apply these tools to specific NLP tasks.
+
 
 **Data Science**
 ---
