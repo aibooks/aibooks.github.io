@@ -22,6 +22,12 @@
 
 Artificial Intelligence (AI) is the newest technology that’s being employed among varied businesses, industries, and sectors. Python Artificial Intelligence Projects for Beginners demonstrates AI projects in Python, covering modern techniques that make up the world of Artificial Intelligence.
 
+### [Artificial Intelligence for Big Data (2018)](https://drive.google.com/file/d/16ql7s-l_NEpXdtnMOGUbJMq3a-B2qijt/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B08739__cover.png" width="120px"/>
+
+In this age of big data, companies have larger amount of consumer data than ever before, far more than what the current technologies can ever hope to keep up with. However, Artificial Intelligence closes the gap by moving past human limitations in order to analyze data.
+
 ### [Hands-On Intelligent Agents with OpenAI Gym (2018)](https://drive.google.com/file/d/1s9dJjnKuZJGdJ2svLT5xUDGqFHYp7-Jl/view) *Download*
 
 <img src="https://www.packtpub.com/sites/default/files/B09513.png" width="120px"/>
